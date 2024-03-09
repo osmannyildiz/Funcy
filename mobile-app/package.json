@@ -6,13 +6,17 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web"
+    "web": "expo start --web",
+    "expo": "expo"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "1.21.0",
+    "@solana/web3.js": "^1.91.0",
     "expo": "~50.0.11",
     "expo-status-bar": "~1.11.1",
     "react": "18.2.0",
-    "react-native": "0.73.4"
+    "react-native": "0.73.4",
+    "react-native-get-random-values": "^1.11.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
