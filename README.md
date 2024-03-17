@@ -16,31 +16,31 @@ Introducing **Funcy**, a Web3-enabled mobile app revolutionizing IRL events. Att
 
 ## About Me
 
-Osman Nuri Yıldız, a versatile full-stack developer, graduated in Computer Engineering in 2023. As a member of Cuberium's blockchain development team and the Turkish Rust Community, he's deeply engaged in cutting-edge technologies. With a passion for blockchain, he's participated in numerous hackathons and events like Devconnect Istanbul and Istanbul Blockchain Week, honing his skills and contributing to the tech community.
+**Osman Nuri Yıldız**, a versatile full-stack developer, graduated in Computer Engineering in 2023. As a member of Cuberium's blockchain development team and the Turkish Rust Community, he's deeply engaged in cutting-edge technologies. With a passion for blockchain, he's participated in numerous hackathons and events like Devconnect Istanbul and Istanbul Blockchain Week, honing his skills and contributing to the tech community.
 
 ## Development Plan
 
-1. Smart Contract Design
+1. **Smart Contract Design**
 
 Define the structure and functionality of the smart contract, including variables for managing event details, transactions, and user accounts.
 
-2. Implement Smart Contract Functions
+2. **Implement Smart Contract Functions**
 
 Develop functions for event registration, token transfers for purchases, and account management. Include features for event organizers to manage event-related data.
 
-3. Test Smart Contract
+3. **Test Smart Contract**
 
 Thoroughly test smart contract functionality for security, reliability, and efficiency, using both automated tests and manual testing.
 
-4. Front-end Design and Development
+4. **Front-end Design and Development**
 
 Design user-friendly interfaces for the Funcy mobile app using React Native, focusing on intuitive navigation and seamless transaction flows.
 
-5. Front-end Integration with Smart Contract
+5. **Front-end Integration with Smart Contract**
 
 Integrate front-end interfaces with the smart contract, allowing users to interact with event features, make purchases, and manage their accounts.
 
-6. Deployment
+6. **Deployment**
 
 Deploy the smart contract to the Solana blockchain and release the Funcy mobile app on relevant platforms, ensuring seamless user access and functionality.
 
