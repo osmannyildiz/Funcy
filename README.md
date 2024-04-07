@@ -1,8 +1,10 @@
 # Funcy
 
-> Advanced Solana Bootcamp Final Project
+> 👉 Solana Renaissance Hackathon Participant
 
-> Docs (draft): <https://osmannyildiz.notion.site/Funcy-7a031de4b5d64c7291a7e0f7af217252>
+> 👉 Advanced Solana Bootcamp Final Project
+
+> 👉 Docs (draft): <https://osmannyildiz.notion.site/Funcy-7a031de4b5d64c7291a7e0f7af217252>
 
 ![Project visual](https://raw.githubusercontent.com/osmannyildiz/AdvancedSolanaBootcampFinalProject/main/_meta/assets/image.png)
 
@@ -13,6 +15,10 @@ Introducing **Funcy**, a Web3-enabled mobile app revolutionizing IRL events. Att
 ## Vision
 
 **Funcy** aims to revolutionize event experiences by simplifying management for organizers and enhancing convenience for attendees. By enabling seamless transactions with Solana SPL tokens, it transforms in-venue purchases into effortless and enjoyable transactions. Moreover, by providing many users with their first crypto experience, **Funcy** opens the door to "the next billion users" in the Solana ecosystem. Through these innovations, **Funcy** seeks to create a significant impact, streamlining event operations, enriching attendee experiences, and fostering widespread adoption of cryptocurrency technology.
+
+## What will it look like?
+
+<img src="https://raw.githubusercontent.com/osmannyildiz/AdvancedSolanaBootcampFinalProject/main/_meta/assets/design.png" alt="Design" height="800">
 
 ## About Me
 
